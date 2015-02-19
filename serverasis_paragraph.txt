@@ -1,0 +1,6 @@
+When I click on a link, the command line shows: 1) the IP address from where the request originated 
+(in this case, 127.0.0.1), 2) the date and time stamp of the request, 3) implementation of the "GET" request 
+for the specific address like "/ping.html", 4) the communication protocol used (in this case, "HTTP 1.1") and
+finally at the end of the line 5) 200 code to indicate success in finding and retreiving the resource. 
+This record represents the request/response action between the client(browser) when a user clicks on the link
+and the HTTP server provides or serves each resource (page) as it is requested. 
